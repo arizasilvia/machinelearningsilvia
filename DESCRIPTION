@@ -1,0 +1,12 @@
+Package: silpackage
+License: see Licence
+Title: kNN classifier, input with classifier
+Version: 0.98.1018
+Author: Silvia Ariza Sentis <silvia.ariza@barcelonagse.eu>
+Maintainer: Silvia Ariza Sentis <silvia.ariza@barcelonagse.eu>
+Description: the function links the input with the corresponding classifier to find its kNN classifiers
+Depends: R (>= 3.1.2), assertthat, dplyr
+Date: 2015-02-08
+Type: Package
+URL: https://github.com/arizasilvia
+BuildKeepEmpty: TRUE
